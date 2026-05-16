@@ -1,20 +1,15 @@
-# Hi 👋, I'm Harry (何瑞)
+# Hi 👋, I'm Harry 
 
-> 🛏️ 👨‍💻 💇‍♂️
->
-> ✈️ 已飞 2 国 | 庆北大学熬夜宿醉留子 | **Frequent Flyer**
->
-> 💻 **Master's** 毕业 | 诺贝尔统计学奖围观者 | 霸王茶姬十级测评官
->
-> 🍗 韩式炸鸡首席品鉴师 | ☕ 正宗泡菜无情消灭者 | 峡谷重度玩家
->
-> 💇‍♂️ 发量惊人被程序员界开除的 **Medical Miracle** | 🏎️ C1 意念车手
->
-> 🇰🇷 韩语殿堂级专家（特指无障碍点菜与首尔 **Local Guide**）
->
-> ✨ 鹿晗金雨现场终极亲历者（顶级芦苇 & 歌曲狂热粉）
->
-> 📢 熟练掌握 **🇨🇳 🇰🇷 🇬🇧 Trilingual**（沟通主要靠吹牛逼）
+> ✈️ 💻 🌌
+> <br>
+> ✈️ 已飞 2 国 | 庆北大学熬夜宿醉留子 | **Frequent Flyer** <br>
+> 💻 **Master's** 毕业 | 📊 精通“科学算命”的诺贝尔奖围观者 <br>
+> 🤖 大模型（LLMs）硬核调教员 | 🛠️ 满级 **AI Agent** 驯服 Skill 拥有者 <br>
+> 🥤 霸王茶姬十级测评官 | 🍗 韩式炸鸡首席品鉴师 | ☕ 正宗泡菜无情消灭者 <br>
+> 💇‍♂️ 发量惊人被程序员界开除的 **Medical Miracle** | 🏎️ C1 意念车手 <br>
+> 🇰🇷 韩语殿堂级专家（特指无障碍点菜与首尔 **Local Guide**） <br>
+> ✨ 鹿晗金雨现场终极亲历者（顶级芦苇 & 歌曲狂热粉） <br>
+> 📢 熟练掌握 **🇨🇳 🇰🇷 🇬🇧 Trilingual**（跨国沟通主要靠自信输出）
 
 一个兼具**深厚统计学功底**与**硬核工程落地能力**的复合型数据技术专家。专注于大模型智能体（AI Agent）开发、高性能数据服务化重构以及工业级数据治理。
 
@@ -38,7 +33,7 @@
 
 ---
 
-### 📈 核心开源 project (Featured Projects)
+### 📈 核心开源项目 (Featured Projects)
 
 - 🤖 **[AI Agent 智能医药数据分析平台](#)**：基于 LangChain 与 PGvector 打造的 Text-to-SQL 医药数据智能体，实现 92% 的问答准确率与秒级报表响应。
 - 🕷️ **[hoocy13/xian-hotels-scraper](https://github.com/hoocy13/xian-hotels-scraper)**：基于 DrissionPage / Playwright 的工业级多源高并发数据采集与治理工程。
